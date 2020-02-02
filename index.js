@@ -60,7 +60,7 @@ module.exports = {
     // Disallow unnecessary constructors
     '@typescript-eslint/no-useless-constructor': 'error',
     // Disallow unused variables
-    '@typescript-eslint/no-unused-vars': 'error',
+    '@typescript-eslint/no-unused-vars': [2, { args: 'none' }],
     // Warns if a type assertion does not change the type of an expression
     '@typescript-eslint/no-unnecessary-type-assertion': 'error',
     // Disallow the use of parameter properties in class constructors
