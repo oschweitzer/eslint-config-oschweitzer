@@ -10,7 +10,7 @@ On your TypeScript application,
 
 1. Install the necessary dependencies:
 
-   `npm i -D eslint eslint-import-resolver-typescript eslint-config-condor eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser`
+   `npm i -D eslint eslint-import-resolver-typescript eslint-config-oschweitzer eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser`
 
 2. Create a file named `.eslintrc.js` and paste the following code
 
