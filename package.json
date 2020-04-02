@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-oschweitzer",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "ESLint sets of rules",
   "main": "index.js",
   "repository": {
