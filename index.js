@@ -39,11 +39,6 @@ module.exports = {
         "accessibility": "no-public"
       }
     ],
-    // Enforce camelCase naming convention
-    "camelcase": "off",
-    "@typescript-eslint/camelcase": "error",
-    // Require PascalCased class and interface names
-    "@typescript-eslint/class-name-casing": "error",
     // Require explicit return types on functions and class methods
     "@typescript-eslint/explicit-function-return-type": [
       "error",
@@ -51,11 +46,6 @@ module.exports = {
         "allowExpressions": true,
         "allowHigherOrderFunctions": true
       }
-    ],
-    // Require that interface names be prefixed with I
-    "@typescript-eslint/interface-name-prefix": [
-      "error",
-      "never"
     ],
     // Disallow generic Array constructors
     "@typescript-eslint/no-array-constructor": "error",
